@@ -75,7 +75,7 @@ export function Hero() {
           transition={{ duration: 0.6, delay: 0.15, ease: "easeOut" }}
           className="mt-5 max-w-2xl text-balance text-lg leading-relaxed text-muted sm:text-xl"
         >
-          <RoleCycler />    building products, automation, and doing research.
+          <RoleCycler />           building products, automation, and doing research.
         </motion.p>
 
         <motion.p
