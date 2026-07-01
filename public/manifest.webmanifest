@@ -1,0 +1,10 @@
+{
+  "name": "Ashraful Alam Omi — Portfolio",
+  "short_name": "Omi",
+  "description": "AI Engineer & Full-Stack Developer portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f9d63",
+  "icons": []
+}
